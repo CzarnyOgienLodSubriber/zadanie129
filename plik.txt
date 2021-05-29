@@ -1,2 +1,2 @@
 osoba1: Patryk B
-
+osoba2: Patryk L
