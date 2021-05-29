@@ -1,2 +1,3 @@
 osoba1: Patryk B
+osoba2: Patryk L
 osoba3: Pawel K
